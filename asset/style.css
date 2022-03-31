@@ -1,0 +1,8 @@
+
+.loader{
+    width: 100%;
+    height: 29px;
+    background-color: rgb(53, 81, 116);
+    /* border: 1px solid black; */
+    border-radius: 100px;
+}
